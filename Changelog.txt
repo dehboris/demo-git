@@ -1,2 +1,3 @@
+- Création du fichier licence
 - Ajout du nom 
 - Création du fichier changelog
